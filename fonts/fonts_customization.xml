@@ -12,6 +12,11 @@
     <family customizationType="new-named-family" name="arbutus-slab">
       <font weight="400" style="normal">ArbutusSlab-Regular.ttf</font>
     </family>
+	
+	<family customizationType="new-named-family" name="comicsans">
+        <font weight="400" style="normal">Comic_Sans.ttf</font>
+    </family>
+
 
     <family customizationType="new-named-family" name="circularstd">
       <font weight="400" style="normal">CircularStd.ttf</font>
